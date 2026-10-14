@@ -1,0 +1,35 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Codex Reset Tracker – When were Codex & ChatGPT usage limits last reset?</title>
+<meta name="description" content="Track every global OpenAI Codex / ChatGPT usage-limit reset announced by Tibo (@thsottiaux). Time since last reset, full history, and a usage pace helper.">
+<link rel="canonical" href="https://anilkumarnandamuri.github.io/codex-reset-tracker/">
+<meta property="og:type" content="website"><meta property="og:title" content="Codex Reset Tracker">
+<meta property="og:description" content="When were Codex / ChatGPT usage limits last globally reset? Live time-since, history & pace helper.">
+<meta property="og:image" content="https://anilkumarnandamuri.github.io/codex-reset-tracker/og.png"><meta property="og:url" content="https://anilkumarnandamuri.github.io/codex-reset-tracker/">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Codex Reset Tracker">
+<meta name="twitter:description" content="Time since the last global Codex usage reset, full history & pace helper."><meta name="twitter:image" content="https://anilkumarnandamuri.github.io/codex-reset-tracker/og.png">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#0b0d12">
+<link rel="stylesheet" href="style.css"></head><body>
+<header><a class="brand" href="./"><img src="favicon.svg" alt="" width="28" height="28"> Codex Reset Tracker</a></header>
+<main>
+<section class="hero card" id="hero"><p class="eyebrow">Latest global reset</p>
+<h1 id="ago">Loading…</h1><p id="when" class="muted"></p><blockquote id="quote"></blockquote>
+<div class="row"><a id="postlink" class="btn" target="_blank" rel="noopener">View post on X</a>
+<a id="share" class="btn ghost" target="_blank" rel="noopener">Share on X</a></div></section>
+<section class="stats"><div class="card stat"><b id="days">–</b><span>days since last reset</span></div>
+<div class="card stat"><b id="count">–</b><span>verified resets tracked</span></div>
+<div class="card stat"><b id="gap">–</b><span>avg days between resets</span></div></section>
+<div class="ad-slot" aria-label="Sponsor">Sponsor slot</div>
+<section class="card"><h2>My usage pace</h2><p class="muted">Enter what's left and when <em>your</em> own limit window resets.</p>
+<form id="pace"><label>% usage left<input id="pct" type="number" min="0" max="100" value="60" inputmode="decimal"></label>
+<label>Hours until my reset<input id="hrs" type="number" min="0.1" step="0.5" value="48" inputmode="decimal"></label></form>
+<p id="paceout" class="pace"></p></section>
+<section class="card"><h2>Reset history</h2><ol id="timeline" class="timeline"></ol></section>
+<section class="card faq"><h2>FAQ</h2>
+<details><summary>What is a "global reset"?</summary><p>OpenAI occasionally resets Codex / ChatGPT usage limits for all paid users at once, refilling everyone's quota. Tibo (@thsottiaux) at OpenAI usually announces these on X.</p></details>
+<details><summary>How is this data collected?</summary><p>Only posts from @thsottiaux that confirm a reset was delivered (e.g. "All propagated", "It's done") are listed, each linked to the source post. Nothing is guessed.</p></details>
+<details><summary>Can you predict the next reset?</summary><p>No. Resets are discretionary. The average gap is shown for fun, not as a forecast.</p></details>
+<details><summary>Does this change my personal limit window?</summary><p>No. Your regular rolling limits still apply; check Codex/ChatGPT settings for your own reset time.</p></details></section>
+</main>
+<footer><p>Not affiliated with, endorsed by, or sponsored by OpenAI. "Codex" and "ChatGPT" are trademarks of OpenAI. Data from public posts by @thsottiaux.</p><p id="updated" class="muted"></p></footer>
+<script src="app.js" defer></script></body></html>

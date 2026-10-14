@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anilkumarnandamuri.github.io/codex-reset-tracker/sitemap.xml
