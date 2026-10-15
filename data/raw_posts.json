@@ -1,595 +1,1113 @@
 {
- "data": [
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-13T05:06:06.000Z",
-   "edit_history_tweet_ids": [
-    "2109873287853707513"
-   ],
-   "id": "2109873287853707513",
-   "public_metrics": {
-    "bookmark_count": 122,
-    "impression_count": 848153,
-    "like_count": 5753,
-    "quote_count": 168,
-    "reply_count": 1345,
-    "retweet_count": 138
-   },
-   "referenced_tweets": [
+  "data": [
     {
-     "id": "2109812360596865224",
-     "type": "quoted"
-    }
-   ],
-   "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
-   "url": "https://x.com/thsottiaux/status/2109873287853707513"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-13T01:03:59.000Z",
-   "edit_history_tweet_ids": [
-    "2109812360596865224"
-   ],
-   "id": "2109812360596865224",
-   "in_reply_to_user_id": "1953337039510003712",
-   "public_metrics": {
-    "bookmark_count": 76,
-    "impression_count": 1586697,
-    "like_count": 3470,
-    "quote_count": 223,
-    "reply_count": 656,
-    "retweet_count": 120
-   },
-   "referenced_tweets": [
-    {
-     "id": "2109812216212099456",
-     "type": "replied_to"
-    }
-   ],
-   "text": "Global reset landing by EOD PST time. Enjoy",
-   "url": "https://x.com/thsottiaux/status/2109812360596865224"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-13T01:03:25.000Z",
-   "edit_history_tweet_ids": [
-    "2109812216212099456"
-   ],
-   "id": "2109812216212099456",
-   "public_metrics": {
-    "bookmark_count": 321,
-    "impression_count": 1790312,
-    "like_count": 14128,
-    "quote_count": 1098,
-    "reply_count": 1882,
-    "retweet_count": 646
-   },
-   "text": "Day 8/ Reset",
-   "url": "https://x.com/thsottiaux/status/2109812216212099456"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-11T04:01:09.000Z",
-   "edit_history_tweet_ids": [
-    "2109132167112782291"
-   ],
-   "id": "2109132167112782291",
-   "public_metrics": {
-    "bookmark_count": 166,
-    "impression_count": 998036,
-    "like_count": 8248,
-    "quote_count": 297,
-    "reply_count": 927,
-    "retweet_count": 247
-   },
-   "referenced_tweets": [
-    {
-     "id": "2109045392684032299",
-     "type": "quoted"
-    }
-   ],
-   "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
-   "url": "https://x.com/thsottiaux/status/2109132167112782291"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-10T22:16:20.000Z",
-   "edit_history_tweet_ids": [
-    "2109045392684032299"
-   ],
-   "id": "2109045392684032299",
-   "in_reply_to_user_id": "1953337039510003712",
-   "public_metrics": {
-    "bookmark_count": 110,
-    "impression_count": 1525796,
-    "like_count": 4553,
-    "quote_count": 204,
-    "reply_count": 554,
-    "retweet_count": 166
-   },
-   "referenced_tweets": [
-    {
-     "id": "2109045220411351517",
-     "type": "replied_to"
-    }
-   ],
-   "text": "Global reset by EOD. May the tokens do good things for you.",
-   "url": "https://x.com/thsottiaux/status/2109045392684032299"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-10T22:15:39.000Z",
-   "edit_history_tweet_ids": [
-    "2109045220411351517"
-   ],
-   "id": "2109045220411351517",
-   "public_metrics": {
-    "bookmark_count": 419,
-    "impression_count": 2819943,
-    "like_count": 15652,
-    "quote_count": 896,
-    "reply_count": 1571,
-    "retweet_count": 641
-   },
-   "text": "Day 6/ Reset",
-   "url": "https://x.com/thsottiaux/status/2109045220411351517"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-07T19:19:17.000Z",
-   "edit_history_tweet_ids": [
-    "2107913674593644711"
-   ],
-   "id": "2107913674593644711",
-   "public_metrics": {
-    "bookmark_count": 845,
-    "impression_count": 2545426,
-    "like_count": 20218,
-    "quote_count": 759,
-    "reply_count": 1646,
-    "retweet_count": 712
-   },
-   "referenced_tweets": [
-    {
-     "id": "2107575657014468879",
-     "type": "quoted"
-    }
-   ],
-   "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow! https://t.co/mHSI0PbWfe",
-   "url": "https://x.com/thsottiaux/status/2107913674593644711"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-07T03:35:09.000Z",
-   "edit_history_tweet_ids": [
-    "2107676072871600470"
-   ],
-   "id": "2107676072871600470",
-   "public_metrics": {
-    "bookmark_count": 590,
-    "impression_count": 1651591,
-    "like_count": 15916,
-    "quote_count": 1002,
-    "reply_count": 2227,
-    "retweet_count": 663
-   },
-   "referenced_tweets": [
-    {
-     "id": "2107575657014468879",
-     "type": "quoted"
-    }
-   ],
-   "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been https://t.co/mHSI0Pcu4M",
-   "url": "https://x.com/thsottiaux/status/2107676072871600470"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-06T21:07:55.000Z",
-   "edit_history_tweet_ids": [
-    "2107578625419866469"
-   ],
-   "id": "2107578625419866469",
-   "public_metrics": {
-    "bookmark_count": 206,
-    "impression_count": 991563,
-    "like_count": 5806,
-    "quote_count": 119,
-    "reply_count": 1177,
-    "retweet_count": 102
-   },
-   "referenced_tweets": [
-    {
-     "id": "2107576143285219799",
-     "type": "quoted"
-    }
-   ],
-   "text": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH",
-   "url": "https://x.com/thsottiaux/status/2107578625419866469"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-04T20:33:43.000Z",
-   "edit_history_tweet_ids": [
-    "2106845241357824205"
-   ],
-   "id": "2106845241357824205",
-   "public_metrics": {
-    "bookmark_count": 2604,
-    "impression_count": 8047548,
-    "like_count": 26248,
-    "quote_count": 2311,
-    "reply_count": 4502,
-    "retweet_count": 1487
-   },
-   "referenced_tweets": [
-    {
-     "id": "2106610099720720811",
-     "type": "quoted"
-    }
-   ],
-   "text": "Over the next 28 days, each day we\u2019ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. https://t.co/0oFXZ7LY5T",
-   "url": "https://x.com/thsottiaux/status/2106845241357824205"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-03T04:01:28.000Z",
-   "edit_history_tweet_ids": [
-    "2106233145163141249"
-   ],
-   "id": "2106233145163141249",
-   "public_metrics": {
-    "bookmark_count": 99,
-    "impression_count": 1004150,
-    "like_count": 3137,
-    "quote_count": 60,
-    "reply_count": 432,
-    "retweet_count": 71
-   },
-   "text": "Seeing some reports that the Pro 500 didn\u2019t get the reset as expected earlier. Investigating and will make up for it",
-   "url": "https://x.com/thsottiaux/status/2106233145163141249"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-02T21:18:48.000Z",
-   "edit_history_tweet_ids": [
-    "2106131810921136451"
-   ],
-   "id": "2106131810921136451",
-   "public_metrics": {
-    "bookmark_count": 208,
-    "impression_count": 894883,
-    "like_count": 8799,
-    "quote_count": 340,
-    "reply_count": 1423,
-    "retweet_count": 318
-   },
-   "referenced_tweets": [
-    {
-     "id": "2105843926221660585",
-     "type": "quoted"
-    }
-   ],
-   "text": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
-   "url": "https://x.com/thsottiaux/status/2106131810921136451"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-02T02:14:51.000Z",
-   "edit_history_tweet_ids": [
-    "2105843926221660585"
-   ],
-   "id": "2105843926221660585",
-   "public_metrics": {
-    "bookmark_count": 1772,
-    "impression_count": 4554404,
-    "like_count": 20089,
-    "quote_count": 1722,
-    "reply_count": 3895,
-    "retweet_count": 1132
-   },
-   "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
-   "url": "https://x.com/thsottiaux/status/2105843926221660585"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-10-01T14:51:54.000Z",
-   "edit_history_tweet_ids": [
-    "2105672058269212820"
-   ],
-   "id": "2105672058269212820",
-   "public_metrics": {
-    "bookmark_count": 745,
-    "impression_count": 2264899,
-    "like_count": 10034,
-    "quote_count": 413,
-    "reply_count": 2979,
-    "retweet_count": 248
-   },
-   "text": "Because usage on your primary dot is virtually unlimited at the moment, I can\u2019t really give a reset. I need to come up with something new fast.",
-   "url": "https://x.com/thsottiaux/status/2105672058269212820"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-09-26T00:07:13.000Z",
-   "edit_history_tweet_ids": [
-    "2103637477760311522"
-   ],
-   "id": "2103637477760311522",
-   "public_metrics": {
-    "bookmark_count": 1070,
-    "impression_count": 5198624,
-    "like_count": 17696,
-    "quote_count": 1327,
-    "reply_count": 4209,
-    "retweet_count": 807
-   },
-   "referenced_tweets": [
-    {
-     "id": "2103622639386574979",
-     "type": "quoted"
-    }
-   ],
-   "text": "o yes\u2026 we\u2019re back in action and we\u2019ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
-   "url": "https://x.com/thsottiaux/status/2103637477760311522"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-09-22T18:23:37.000Z",
-   "edit_history_tweet_ids": [
-    "2102463847714247142"
-   ],
-   "id": "2102463847714247142",
-   "public_metrics": {
-    "bookmark_count": 1583,
-    "impression_count": 3283868,
-    "like_count": 25199,
-    "quote_count": 949,
-    "reply_count": 2977,
-    "retweet_count": 1602
-   },
-   "referenced_tweets": [
-    {
-     "id": "2102440619616682120",
-     "type": "quoted"
-    }
-   ],
-   "text": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. \n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and https://t.co/vbyUhVlKH3",
-   "url": "https://x.com/thsottiaux/status/2102463847714247142"
-  },
-  {
-   "author_id": "1953337039510003712",
-   "created_at": "2026-09-22T04:31:32.000Z",
-   "edit_history_tweet_ids": [
-    "2102254445082116335"
-   ],
-   "id": "2102254445082116335",
-   "public_metrics": {
-    "bookmark_count": 1223,
-    "impression_count": 5871815,
-    "like_count": 27930,
-    "quote_count": 1679,
-    "reply_count": 5518,
-    "retweet_count": 1349
-   },
-   "text": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
-   "url": "https://x.com/thsottiaux/status/2102254445082116335"
-  }
- ],
- "includes": {
-  "tweets": [
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-13T01:03:59.000Z",
-    "edit_history_tweet_ids": [
-     "2109812360596865224"
-    ],
-    "id": "2109812360596865224",
-    "in_reply_to_user_id": "1953337039510003712",
-    "public_metrics": {
-     "bookmark_count": 76,
-     "impression_count": 1586697,
-     "like_count": 3470,
-     "quote_count": 223,
-     "reply_count": 656,
-     "retweet_count": 120
+      "created_at": "2026-10-15T06:28:13.000Z",
+      "edit_history_tweet_ids": [
+        "2110618732666257557"
+      ],
+      "id": "2110618732666257557",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 16926,
+        "like_count": 319,
+        "quote_count": 17,
+        "reply_count": 119,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110595554036400151",
+          "type": "quoted"
+        }
+      ],
+      "text": "Done and dusted https://t.co/0fehr43VS4",
+      "url": "https://x.com/i/status/2110618732666257557"
     },
-    "referenced_tweets": [
-     {
+    {
+      "created_at": "2026-10-15T06:27:20.000Z",
+      "edit_history_tweet_ids": [
+        "2110618507276886392"
+      ],
+      "id": "2110618507276886392",
+      "in_reply_to_user_id": "786375418685165568",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2415,
+        "like_count": 41,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110509073640898822",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theo I believe it is shown at the bottom of your screenshot 🤡 But seriously, when do you need this?",
+      "url": "https://x.com/i/status/2110618507276886392"
+    },
+    {
+      "created_at": "2026-10-15T06:02:32.000Z",
+      "edit_history_tweet_ids": [
+        "2110612268962779352"
+      ],
+      "id": "2110612268962779352",
+      "in_reply_to_user_id": "2085033893376499712",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13963,
+        "like_count": 125,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110408954052477158",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
+      "url": "https://x.com/i/status/2110612268962779352"
+    },
+    {
+      "created_at": "2026-10-15T04:57:51.000Z",
+      "edit_history_tweet_ids": [
+        "2110595987542868381"
+      ],
+      "id": "2110595987542868381",
+      "in_reply_to_user_id": "73253803",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 13742,
+        "like_count": 123,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110594315420631127",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@amorriscode @poteto @theo If you’re not a bit afraid of your army, it’s not a good army",
+      "url": "https://x.com/i/status/2110595987542868381"
+    },
+    {
+      "created_at": "2026-10-15T04:56:07.000Z",
+      "edit_history_tweet_ids": [
+        "2110595554036400151"
+      ],
+      "id": "2110595554036400151",
+      "in_reply_to_user_id": "1953337039510003712",
+      "public_metrics": {
+        "bookmark_count": 42,
+        "impression_count": 299171,
+        "like_count": 2533,
+        "quote_count": 151,
+        "reply_count": 414,
+        "retweet_count": 103
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110595484180214059",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Landing within the next 2 hours",
+      "url": "https://x.com/i/status/2110595554036400151"
+    },
+    {
+      "created_at": "2026-10-15T04:55:51.000Z",
+      "edit_history_tweet_ids": [
+        "2110595484180214059"
+      ],
+      "id": "2110595484180214059",
+      "public_metrics": {
+        "bookmark_count": 212,
+        "impression_count": 560811,
+        "like_count": 8782,
+        "quote_count": 697,
+        "reply_count": 1487,
+        "retweet_count": 475
+      },
+      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+      "url": "https://x.com/i/status/2110595484180214059"
+    },
+    {
+      "created_at": "2026-10-15T04:39:35.000Z",
+      "edit_history_tweet_ids": [
+        "2110591392691159317"
+      ],
+      "id": "2110591392691159317",
+      "in_reply_to_user_id": "2832427459",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 60667,
+        "like_count": 1135,
+        "quote_count": 34,
+        "reply_count": 160,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110584758950588537",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@poteto @theo I made it alive https://t.co/FjnywxZiLC",
+      "url": "https://x.com/i/status/2110591392691159317"
+    },
+    {
+      "created_at": "2026-10-15T04:31:57.000Z",
+      "edit_history_tweet_ids": [
+        "2110589470911418414"
+      ],
+      "id": "2110589470911418414",
+      "in_reply_to_user_id": "786375418685165568",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 96704,
+        "like_count": 1901,
+        "quote_count": 42,
+        "reply_count": 320,
+        "retweet_count": 37
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110580418898780462",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theo Sometimes I do need to work",
+      "url": "https://x.com/i/status/2110589470911418414"
+    },
+    {
+      "created_at": "2026-10-14T01:57:57.000Z",
+      "edit_history_tweet_ids": [
+        "2110188326422819047"
+      ],
+      "id": "2110188326422819047",
+      "in_reply_to_user_id": "23191588",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 128238,
+        "like_count": 334,
+        "quote_count": 4,
+        "reply_count": 51,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110181637111840993",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@charliermarsh 😅",
+      "url": "https://x.com/i/status/2110188326422819047"
+    },
+    {
+      "created_at": "2026-10-14T00:33:27.000Z",
+      "edit_history_tweet_ids": [
+        "2110167061632819447"
+      ],
+      "id": "2110167061632819447",
+      "in_reply_to_user_id": "356849646",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 116453,
+        "like_count": 616,
+        "quote_count": 2,
+        "reply_count": 41,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110072763042205979",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@argofowl 👁️tibo👁️",
+      "url": "https://x.com/i/status/2110167061632819447"
+    },
+    {
+      "created_at": "2026-10-13T23:34:58.000Z",
+      "edit_history_tweet_ids": [
+        "2110152344029778279"
+      ],
+      "id": "2110152344029778279",
+      "in_reply_to_user_id": "2084385146099097600",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 112745,
+        "like_count": 1542,
+        "quote_count": 2,
+        "reply_count": 41,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110098269904789797",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@StefanoGPT Legit how I look like. Must have trained on my face data",
+      "url": "https://x.com/i/status/2110152344029778279"
+    },
+    {
+      "created_at": "2026-10-13T23:32:43.000Z",
+      "edit_history_tweet_ids": [
+        "2110151690641154499",
+        "2110151780478927344"
+      ],
+      "id": "2110151780478927344",
+      "public_metrics": {
+        "bookmark_count": 669,
+        "impression_count": 2376272,
+        "like_count": 14696,
+        "quote_count": 625,
+        "reply_count": 4500,
+        "retweet_count": 425
+      },
+      "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt &amp; codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.",
+      "url": "https://x.com/i/status/2110151780478927344"
+    },
+    {
+      "created_at": "2026-10-13T06:21:26.000Z",
+      "edit_history_tweet_ids": [
+        "2109892247580000595"
+      ],
+      "id": "2109892247580000595",
+      "public_metrics": {
+        "bookmark_count": 436,
+        "impression_count": 1825406,
+        "like_count": 13260,
+        "quote_count": 293,
+        "reply_count": 2454,
+        "retweet_count": 258
+      },
+      "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+      "url": "https://x.com/i/status/2109892247580000595"
+    },
+    {
+      "created_at": "2026-10-13T05:06:10.000Z",
+      "edit_history_tweet_ids": [
+        "2109873307722121591"
+      ],
+      "id": "2109873307722121591",
+      "in_reply_to_user_id": "1953337039510003712",
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 753474,
+        "like_count": 2181,
+        "quote_count": 20,
+        "reply_count": 156,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109873287853707513",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Mashed @poteto on the house.",
+      "url": "https://x.com/i/status/2109873307722121591"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-13T05:06:06.000Z",
+      "edit_history_tweet_ids": [
+        "2109873287853707513"
+      ],
+      "id": "2109873287853707513",
+      "public_metrics": {
+        "bookmark_count": 122,
+        "impression_count": 848153,
+        "like_count": 5753,
+        "quote_count": 168,
+        "reply_count": 1345,
+        "retweet_count": 138
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109812360596865224",
+          "type": "quoted"
+        }
+      ],
+      "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
+      "url": "https://x.com/thsottiaux/status/2109873287853707513"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-13T01:03:59.000Z",
+      "edit_history_tweet_ids": [
+        "2109812360596865224"
+      ],
+      "id": "2109812360596865224",
+      "in_reply_to_user_id": "1953337039510003712",
+      "public_metrics": {
+        "bookmark_count": 76,
+        "impression_count": 1586697,
+        "like_count": 3470,
+        "quote_count": 223,
+        "reply_count": 656,
+        "retweet_count": 120
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109812216212099456",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Global reset landing by EOD PST time. Enjoy",
+      "url": "https://x.com/thsottiaux/status/2109812360596865224"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-13T01:03:25.000Z",
+      "edit_history_tweet_ids": [
+        "2109812216212099456"
+      ],
       "id": "2109812216212099456",
-      "type": "replied_to"
-     }
-    ],
-    "text": "Global reset landing by EOD PST time. Enjoy"
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-13T01:03:25.000Z",
-    "edit_history_tweet_ids": [
-     "2109812216212099456"
-    ],
-    "id": "2109812216212099456",
-    "public_metrics": {
-     "bookmark_count": 321,
-     "impression_count": 1790312,
-     "like_count": 14128,
-     "quote_count": 1098,
-     "reply_count": 1882,
-     "retweet_count": 646
+      "public_metrics": {
+        "bookmark_count": 321,
+        "impression_count": 1790312,
+        "like_count": 14128,
+        "quote_count": 1098,
+        "reply_count": 1882,
+        "retweet_count": 646
+      },
+      "text": "Day 8/ Reset",
+      "url": "https://x.com/thsottiaux/status/2109812216212099456"
     },
-    "text": "Day 8/ Reset"
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-10T22:16:20.000Z",
-    "edit_history_tweet_ids": [
-     "2109045392684032299"
-    ],
-    "id": "2109045392684032299",
-    "in_reply_to_user_id": "1953337039510003712",
-    "public_metrics": {
-     "bookmark_count": 110,
-     "impression_count": 1525796,
-     "like_count": 4553,
-     "quote_count": 204,
-     "reply_count": 554,
-     "retweet_count": 166
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-11T04:01:09.000Z",
+      "edit_history_tweet_ids": [
+        "2109132167112782291"
+      ],
+      "id": "2109132167112782291",
+      "public_metrics": {
+        "bookmark_count": 166,
+        "impression_count": 998036,
+        "like_count": 8248,
+        "quote_count": 297,
+        "reply_count": 927,
+        "retweet_count": 247
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109045392684032299",
+          "type": "quoted"
+        }
+      ],
+      "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291"
     },
-    "referenced_tweets": [
-     {
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-10T22:16:20.000Z",
+      "edit_history_tweet_ids": [
+        "2109045392684032299"
+      ],
+      "id": "2109045392684032299",
+      "in_reply_to_user_id": "1953337039510003712",
+      "public_metrics": {
+        "bookmark_count": 110,
+        "impression_count": 1525796,
+        "like_count": 4553,
+        "quote_count": 204,
+        "reply_count": 554,
+        "retweet_count": 166
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109045220411351517",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Global reset by EOD. May the tokens do good things for you.",
+      "url": "https://x.com/thsottiaux/status/2109045392684032299"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-10T22:15:39.000Z",
+      "edit_history_tweet_ids": [
+        "2109045220411351517"
+      ],
       "id": "2109045220411351517",
-      "type": "replied_to"
-     }
-    ],
-    "text": "Global reset by EOD. May the tokens do good things for you."
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-10T22:15:39.000Z",
-    "edit_history_tweet_ids": [
-     "2109045220411351517"
-    ],
-    "id": "2109045220411351517",
-    "public_metrics": {
-     "bookmark_count": 419,
-     "impression_count": 2819943,
-     "like_count": 15652,
-     "quote_count": 896,
-     "reply_count": 1571,
-     "retweet_count": 641
+      "public_metrics": {
+        "bookmark_count": 419,
+        "impression_count": 2819943,
+        "like_count": 15652,
+        "quote_count": 896,
+        "reply_count": 1571,
+        "retweet_count": 641
+      },
+      "text": "Day 6/ Reset",
+      "url": "https://x.com/thsottiaux/status/2109045220411351517"
     },
-    "text": "Day 6/ Reset"
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-06T20:56:08.000Z",
-    "edit_history_tweet_ids": [
-     "2107575657014468879"
-    ],
-    "id": "2107575657014468879",
-    "public_metrics": {
-     "bookmark_count": 496,
-     "impression_count": 3060832,
-     "like_count": 5142,
-     "quote_count": 198,
-     "reply_count": 603,
-     "retweet_count": 157
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-07T19:19:17.000Z",
+      "edit_history_tweet_ids": [
+        "2107913674593644711"
+      ],
+      "id": "2107913674593644711",
+      "public_metrics": {
+        "bookmark_count": 845,
+        "impression_count": 2545426,
+        "like_count": 20218,
+        "quote_count": 759,
+        "reply_count": 1646,
+        "retweet_count": 712
+      },
+      "referenced_tweets": [
+        {
+          "id": "2107575657014468879",
+          "type": "quoted"
+        }
+      ],
+      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow! https://t.co/mHSI0PbWfe",
+      "url": "https://x.com/thsottiaux/status/2107913674593644711"
     },
-    "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to"
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-06T20:58:04.000Z",
-    "edit_history_tweet_ids": [
-     "2107576143285219799"
-    ],
-    "id": "2107576143285219799",
-    "in_reply_to_user_id": "1953337039510003712",
-    "public_metrics": {
-     "bookmark_count": 111,
-     "impression_count": 1760241,
-     "like_count": 2658,
-     "quote_count": 226,
-     "reply_count": 1052,
-     "retweet_count": 112
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-07T03:35:09.000Z",
+      "edit_history_tweet_ids": [
+        "2107676072871600470"
+      ],
+      "id": "2107676072871600470",
+      "public_metrics": {
+        "bookmark_count": 590,
+        "impression_count": 1651591,
+        "like_count": 15916,
+        "quote_count": 1002,
+        "reply_count": 2227,
+        "retweet_count": 663
+      },
+      "referenced_tweets": [
+        {
+          "id": "2107575657014468879",
+          "type": "quoted"
+        }
+      ],
+      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been https://t.co/mHSI0Pcu4M",
+      "url": "https://x.com/thsottiaux/status/2107676072871600470"
     },
-    "referenced_tweets": [
-     {
-      "id": "2107575657014468879",
-      "type": "replied_to"
-     }
-    ],
-    "text": "Vote"
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-04T04:59:21.000Z",
-    "edit_history_tweet_ids": [
-     "2106610099720720811"
-    ],
-    "id": "2106610099720720811",
-    "public_metrics": {
-     "bookmark_count": 912,
-     "impression_count": 2920906,
-     "like_count": 14927,
-     "quote_count": 256,
-     "reply_count": 1976,
-     "retweet_count": 352
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-06T21:07:55.000Z",
+      "edit_history_tweet_ids": [
+        "2107578625419866469"
+      ],
+      "id": "2107578625419866469",
+      "public_metrics": {
+        "bookmark_count": 206,
+        "impression_count": 991563,
+        "like_count": 5806,
+        "quote_count": 119,
+        "reply_count": 1177,
+        "retweet_count": 102
+      },
+      "referenced_tweets": [
+        {
+          "id": "2107576143285219799",
+          "type": "quoted"
+        }
+      ],
+      "text": "Four updates or a reset. Or both. How was day 2. https://t.co/s8HNYAaVjH",
+      "url": "https://x.com/thsottiaux/status/2107578625419866469"
     },
-    "text": "All right, we\u2019re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it."
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-10-02T02:14:51.000Z",
-    "edit_history_tweet_ids": [
-     "2105843926221660585"
-    ],
-    "id": "2105843926221660585",
-    "public_metrics": {
-     "bookmark_count": 1772,
-     "impression_count": 4554404,
-     "like_count": 20089,
-     "quote_count": 1722,
-     "reply_count": 3895,
-     "retweet_count": 1132
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-04T20:33:43.000Z",
+      "edit_history_tweet_ids": [
+        "2106845241357824205"
+      ],
+      "id": "2106845241357824205",
+      "public_metrics": {
+        "bookmark_count": 2604,
+        "impression_count": 8047548,
+        "like_count": 26248,
+        "quote_count": 2311,
+        "reply_count": 4502,
+        "retweet_count": 1487
+      },
+      "referenced_tweets": [
+        {
+          "id": "2106610099720720811",
+          "type": "quoted"
+        }
+      ],
+      "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin. https://t.co/0oFXZ7LY5T",
+      "url": "https://x.com/thsottiaux/status/2106845241357824205"
     },
-    "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days."
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-09-25T23:08:15.000Z",
-    "edit_history_tweet_ids": [
-     "2103622639386574979"
-    ],
-    "id": "2103622639386574979",
-    "in_reply_to_user_id": "1953337039510003712",
-    "public_metrics": {
-     "bookmark_count": 89,
-     "impression_count": 3578560,
-     "like_count": 3450,
-     "quote_count": 97,
-     "reply_count": 524,
-     "retweet_count": 53
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-03T04:01:28.000Z",
+      "edit_history_tweet_ids": [
+        "2106233145163141249"
+      ],
+      "id": "2106233145163141249",
+      "public_metrics": {
+        "bookmark_count": 99,
+        "impression_count": 1004150,
+        "like_count": 3137,
+        "quote_count": 60,
+        "reply_count": 432,
+        "retweet_count": 71
+      },
+      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
+      "url": "https://x.com/thsottiaux/status/2106233145163141249"
     },
-    "referenced_tweets": [
-     {
-      "id": "2103620061156290622",
-      "type": "replied_to"
-     }
-    ],
-    "text": "o no :("
-   },
-   {
-    "author_id": "1953337039510003712",
-    "created_at": "2026-09-22T16:51:19.000Z",
-    "edit_history_tweet_ids": [
-     "2102440619616682120"
-    ],
-    "id": "2102440619616682120",
-    "public_metrics": {
-     "bookmark_count": 461,
-     "impression_count": 3551727,
-     "like_count": 13297,
-     "quote_count": 206,
-     "reply_count": 1718,
-     "retweet_count": 326
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-02T21:18:48.000Z",
+      "edit_history_tweet_ids": [
+        "2106131810921136451"
+      ],
+      "id": "2106131810921136451",
+      "public_metrics": {
+        "bookmark_count": 208,
+        "impression_count": 894883,
+        "like_count": 8799,
+        "quote_count": 340,
+        "reply_count": 1423,
+        "retweet_count": 318
+      },
+      "referenced_tweets": [
+        {
+          "id": "2105843926221660585",
+          "type": "quoted"
+        }
+      ],
+      "text": "Reset all propagated. Enjoy. https://t.co/GaVJhbptR0",
+      "url": "https://x.com/thsottiaux/status/2106131810921136451"
     },
-    "text": "We have been focusing on efficiency and intelligence for all. \n\nVery proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else."
-   }
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-02T02:14:51.000Z",
+      "edit_history_tweet_ids": [
+        "2105843926221660585"
+      ],
+      "id": "2105843926221660585",
+      "public_metrics": {
+        "bookmark_count": 1772,
+        "impression_count": 4554404,
+        "like_count": 20089,
+        "quote_count": 1722,
+        "reply_count": 3895,
+        "retweet_count": 1132
+      },
+      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+      "url": "https://x.com/thsottiaux/status/2105843926221660585"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-10-01T14:51:54.000Z",
+      "edit_history_tweet_ids": [
+        "2105672058269212820"
+      ],
+      "id": "2105672058269212820",
+      "public_metrics": {
+        "bookmark_count": 745,
+        "impression_count": 2264899,
+        "like_count": 10034,
+        "quote_count": 413,
+        "reply_count": 2979,
+        "retweet_count": 248
+      },
+      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
+      "url": "https://x.com/thsottiaux/status/2105672058269212820"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-26T00:07:13.000Z",
+      "edit_history_tweet_ids": [
+        "2103637477760311522"
+      ],
+      "id": "2103637477760311522",
+      "public_metrics": {
+        "bookmark_count": 1070,
+        "impression_count": 5198624,
+        "like_count": 17696,
+        "quote_count": 1327,
+        "reply_count": 4209,
+        "retweet_count": 807
+      },
+      "referenced_tweets": [
+        {
+          "id": "2103622639386574979",
+          "type": "quoted"
+        }
+      ],
+      "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out) https://t.co/Qy0da4L1jq",
+      "url": "https://x.com/thsottiaux/status/2103637477760311522"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-22T18:23:37.000Z",
+      "edit_history_tweet_ids": [
+        "2102463847714247142"
+      ],
+      "id": "2102463847714247142",
+      "public_metrics": {
+        "bookmark_count": 1583,
+        "impression_count": 3283868,
+        "like_count": 25199,
+        "quote_count": 949,
+        "reply_count": 2977,
+        "retweet_count": 1602
+      },
+      "referenced_tweets": [
+        {
+          "id": "2102440619616682120",
+          "type": "quoted"
+        }
+      ],
+      "text": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. \n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and https://t.co/vbyUhVlKH3",
+      "url": "https://x.com/thsottiaux/status/2102463847714247142"
+    },
+    {
+      "author_id": "1953337039510003712",
+      "created_at": "2026-09-22T04:31:32.000Z",
+      "edit_history_tweet_ids": [
+        "2102254445082116335"
+      ],
+      "id": "2102254445082116335",
+      "public_metrics": {
+        "bookmark_count": 1223,
+        "impression_count": 5871815,
+        "like_count": 27930,
+        "quote_count": 1679,
+        "reply_count": 5518,
+        "retweet_count": 1349
+      },
+      "text": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+      "url": "https://x.com/thsottiaux/status/2102254445082116335"
+    }
   ],
-  "users": [
-   {
-    "id": "1953337039510003712",
-    "name": "Tibo",
-    "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
-    "username": "thsottiaux",
-    "verified": false
-   }
-  ]
- },
- "meta": {
-  "newest_id": "2109873287853707513",
-  "next_token": "b26v89c19zqg8o3juziwml9ta3f765n1ttdz9kw92h3zx",
-  "oldest_id": "2102254445082116335",
-  "result_count": 17
- }
+  "includes": {
+    "tweets": [
+      {
+        "created_at": "2026-10-15T04:56:07.000Z",
+        "edit_history_tweet_ids": [
+          "2110595554036400151"
+        ],
+        "id": "2110595554036400151",
+        "in_reply_to_user_id": "1953337039510003712",
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 299171,
+          "like_count": 2533,
+          "quote_count": 151,
+          "reply_count": 414,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110595484180214059",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Landing within the next 2 hours"
+      },
+      {
+        "created_at": "2026-10-14T23:12:29.000Z",
+        "edit_history_tweet_ids": [
+          "2110509073640898822"
+        ],
+        "id": "2110509073640898822",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 45652,
+          "like_count": 870,
+          "quote_count": 9,
+          "reply_count": 121,
+          "retweet_count": 15
+        },
+        "text": "It is so stupid that Codex STILL does not include the current model in the system prompt. Your agent has no idea what it is beyond \"based on GPT-6\".\n\nI've complained about this for a year straight and they won't fix it for no good reason. https://t.co/PepE5yeaZH"
+      },
+      {
+        "created_at": "2026-10-14T16:34:38.000Z",
+        "edit_history_tweet_ids": [
+          "2110408954052477158"
+        ],
+        "id": "2110408954052477158",
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 35506,
+          "like_count": 199,
+          "quote_count": 7,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "text": "I had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 💁 https://t.co/Eyby4OkqZt"
+      },
+      {
+        "created_at": "2026-10-15T04:51:12.000Z",
+        "edit_history_tweet_ids": [
+          "2110594315420631127"
+        ],
+        "id": "2110594315420631127",
+        "in_reply_to_user_id": "1953337039510003712",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11773,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110591392691159317",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thsottiaux @poteto @theo can't tell if you're running or they're your army"
+      },
+      {
+        "created_at": "2026-10-15T04:55:51.000Z",
+        "edit_history_tweet_ids": [
+          "2110595484180214059"
+        ],
+        "id": "2110595484180214059",
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 560811,
+          "like_count": 8782,
+          "quote_count": 697,
+          "reply_count": 1487,
+          "retweet_count": 475
+        },
+        "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset"
+      },
+      {
+        "created_at": "2026-10-15T04:13:13.000Z",
+        "edit_history_tweet_ids": [
+          "2110584758950588537"
+        ],
+        "id": "2110584758950588537",
+        "in_reply_to_user_id": "786375418685165568",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 51914,
+          "like_count": 759,
+          "quote_count": 10,
+          "reply_count": 42,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110580418898780462",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@theo @thsottiaux @thsottiaux come back"
+      },
+      {
+        "created_at": "2026-10-15T03:55:59.000Z",
+        "edit_history_tweet_ids": [
+          "2110580418898780462"
+        ],
+        "id": "2110580418898780462",
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 138811,
+          "like_count": 1178,
+          "quote_count": 4,
+          "reply_count": 73,
+          "retweet_count": 13
+        },
+        "text": "Anyone check in on @thsottiaux recently? Over 24 hours without posting is concerning. Hope he's okay https://t.co/bRWWNw02c3"
+      },
+      {
+        "created_at": "2026-10-14T01:31:22.000Z",
+        "edit_history_tweet_ids": [
+          "2110181637111840993"
+        ],
+        "id": "2110181637111840993",
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 149837,
+          "like_count": 809,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 17
+        },
+        "text": "They're distilling me at work tomorrow"
+      },
+      {
+        "created_at": "2026-10-13T18:18:44.000Z",
+        "edit_history_tweet_ids": [
+          "2110072763042205979"
+        ],
+        "id": "2110072763042205979",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 126259,
+          "like_count": 322,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "text": "can someone check on @thsottiaux \n\ni miss him"
+      },
+      {
+        "created_at": "2026-10-13T20:00:05.000Z",
+        "edit_history_tweet_ids": [
+          "2110098269904789797"
+        ],
+        "id": "2110098269904789797",
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 225841,
+          "like_count": 1067,
+          "quote_count": 9,
+          "reply_count": 92,
+          "retweet_count": 15
+        },
+        "text": "OMG. I asked GPT-6 Astra to turn @thsottiaux's profile picture into a fully 3D model.\n\nI don't think he's ready to see this. 💀\n\nprompt is in the comments https://t.co/fAL1bOsd53"
+      },
+      {
+        "created_at": "2026-10-13T05:06:06.000Z",
+        "edit_history_tweet_ids": [
+          "2109873287853707513"
+        ],
+        "id": "2109873287853707513",
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 1396530,
+          "like_count": 6039,
+          "quote_count": 172,
+          "reply_count": 1378,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109812360596865224",
+            "type": "quoted"
+          }
+        ],
+        "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-13T01:03:59.000Z",
+        "edit_history_tweet_ids": [
+          "2109812360596865224"
+        ],
+        "id": "2109812360596865224",
+        "in_reply_to_user_id": "1953337039510003712",
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 1586697,
+          "like_count": 3470,
+          "quote_count": 223,
+          "reply_count": 656,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109812216212099456",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Global reset landing by EOD PST time. Enjoy"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-13T01:03:25.000Z",
+        "edit_history_tweet_ids": [
+          "2109812216212099456"
+        ],
+        "id": "2109812216212099456",
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 1790312,
+          "like_count": 14128,
+          "quote_count": 1098,
+          "reply_count": 1882,
+          "retweet_count": 646
+        },
+        "text": "Day 8/ Reset"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-10T22:16:20.000Z",
+        "edit_history_tweet_ids": [
+          "2109045392684032299"
+        ],
+        "id": "2109045392684032299",
+        "in_reply_to_user_id": "1953337039510003712",
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 1525796,
+          "like_count": 4553,
+          "quote_count": 204,
+          "reply_count": 554,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109045220411351517",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Global reset by EOD. May the tokens do good things for you."
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-10T22:15:39.000Z",
+        "edit_history_tweet_ids": [
+          "2109045220411351517"
+        ],
+        "id": "2109045220411351517",
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 2819943,
+          "like_count": 15652,
+          "quote_count": 896,
+          "reply_count": 1571,
+          "retweet_count": 641
+        },
+        "text": "Day 6/ Reset"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-06T20:56:08.000Z",
+        "edit_history_tweet_ids": [
+          "2107575657014468879"
+        ],
+        "id": "2107575657014468879",
+        "public_metrics": {
+          "bookmark_count": 496,
+          "impression_count": 3060832,
+          "like_count": 5142,
+          "quote_count": 198,
+          "reply_count": 603,
+          "retweet_count": 157
+        },
+        "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-06T20:58:04.000Z",
+        "edit_history_tweet_ids": [
+          "2107576143285219799"
+        ],
+        "id": "2107576143285219799",
+        "in_reply_to_user_id": "1953337039510003712",
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 1760241,
+          "like_count": 2658,
+          "quote_count": 226,
+          "reply_count": 1052,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107575657014468879",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Vote"
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-04T04:59:21.000Z",
+        "edit_history_tweet_ids": [
+          "2106610099720720811"
+        ],
+        "id": "2106610099720720811",
+        "public_metrics": {
+          "bookmark_count": 912,
+          "impression_count": 2920906,
+          "like_count": 14927,
+          "quote_count": 256,
+          "reply_count": 1976,
+          "retweet_count": 352
+        },
+        "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it."
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-10-02T02:14:51.000Z",
+        "edit_history_tweet_ids": [
+          "2105843926221660585"
+        ],
+        "id": "2105843926221660585",
+        "public_metrics": {
+          "bookmark_count": 1772,
+          "impression_count": 4554404,
+          "like_count": 20089,
+          "quote_count": 1722,
+          "reply_count": 3895,
+          "retweet_count": 1132
+        },
+        "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days."
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-09-25T23:08:15.000Z",
+        "edit_history_tweet_ids": [
+          "2103622639386574979"
+        ],
+        "id": "2103622639386574979",
+        "in_reply_to_user_id": "1953337039510003712",
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 3578560,
+          "like_count": 3450,
+          "quote_count": 97,
+          "reply_count": 524,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103620061156290622",
+            "type": "replied_to"
+          }
+        ],
+        "text": "o no :("
+      },
+      {
+        "author_id": "1953337039510003712",
+        "created_at": "2026-09-22T16:51:19.000Z",
+        "edit_history_tweet_ids": [
+          "2102440619616682120"
+        ],
+        "id": "2102440619616682120",
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 3551727,
+          "like_count": 13297,
+          "quote_count": 206,
+          "reply_count": 1718,
+          "retweet_count": 326
+        },
+        "text": "We have been focusing on efficiency and intelligence for all. \n\nVery proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else."
+      }
+    ],
+    "users": [
+      {
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "username": "thsottiaux",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2110618732666257557",
+    "next_token": "b26v89c19zqg8o3juziwml9ta3f765n1ttdz9kw92h3zx",
+    "oldest_id": "2102254445082116335",
+    "result_count": 31
+  }
 }
